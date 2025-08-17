@@ -8,7 +8,7 @@ class Settings(BaseSettings):
     allowed_models: List[str] = Field(
         default_factory=lambda: ["gemma3:1b", "llama3:8b"]
     )
-    max_tokens: int = 256
+    max_tokens: int = 3000
     # Gunicorn / Uvicorn workers etc. can be set here or via env vars
 
     class Config:
