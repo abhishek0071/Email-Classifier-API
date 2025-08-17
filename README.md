@@ -53,7 +53,7 @@ uvicorn app.main:app --reload       # http://localhost:8000/docs
 \### 2 · Docker Compose
 
 ```sh
-git clone https://github.com/your-org/email-classifier.git
+git clone https://github.com/abhishek0071/Email-Classifier-API.git
 cd email-classifier
 
 # first run may take a minute while models download
