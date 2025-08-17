@@ -145,4 +145,4 @@ PRs and issues are welcome! Please format with `ruff`, run `pytest`, and update 
 
 ## 📄 License
 
-MIT © 2025 Your Name / Webappclouds Software Solution Pvt Ltd
+MIT © 2025 Your Name
